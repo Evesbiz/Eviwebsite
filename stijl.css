@@ -1,0 +1,29 @@
+body{
+background: #F9EBEA;
+}
+a {
+  color: grey;
+}
+
+/* Koppen */
+h1,h2{
+color: grey;
+line-height: : 1;
+text-align: center;
+}
+
+/* Style the header */
+header {
+  background-color: #ecc5c0;
+  padding: 30px;
+  text-align: center;
+  font-size: 35px;
+  color: white;
+}
+p {
+    /* Vaste breedte van 50% */
+    width: 50%;
+    /* 1em boven en ondermarge, evenredige marge links en rechts */
+    margin: 1em auto;
+    background-color: #FFDFDD;
+    opacity: 50%
